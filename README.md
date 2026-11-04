@@ -1,4 +1,4 @@
-# 📱 Generador de Códigos QR Pro
+# Generador de Códigos QR Pro
 
 Una herramienta web ligera, moderna y 100% interactiva creada con HTML, CSS y JavaScript para generar códigos QR personalizados al instante desde cualquier navegador, sin necesidad de instalar programas ni registrarse.
 
@@ -26,11 +26,11 @@ Si quieres probar o modificar el proyecto en tu computadora:
 ## 🌐 Enlace en Línea
 
 Puedes acceder a la versión pública funcionando en vivo a través de GitHub Pages:
-👉 [¡Pruébalo aquí!](https://tu-usuario.github.io/nombre-de-tu-repositorio/) *(Reemplaza este enlace con el tuyo)*
+ [¡Pruébalo aquí!](https://tu-usuario.github.io/nombre-de-tu-repositorio/) *(Reemplaza este enlace con el tuyo)*
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **HTML5 & CSS3** (Diseño moderno con variables y efectos visuales).
 * **JavaScript (Vanilla)** (Lógica de interacción).
@@ -38,5 +38,5 @@ Puedes acceder a la versión pública funcionando en vivo a través de GitHub Pa
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 Creado con dedicación por **Alexis Uriel Calderón González**.
